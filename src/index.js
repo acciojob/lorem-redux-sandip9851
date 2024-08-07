@@ -1,6 +1,6 @@
 import React from "react";
 import {render} from "react-dom";
-import Reducers from "./components/reducers.js";
+import Reducers from "./components/Reducer.js";
 import PostValue from "./components/Connect.js";
 import {createStore} from "redux";
 import {Provider} from "react-redux";
